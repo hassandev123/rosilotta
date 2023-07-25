@@ -1,0 +1,72 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: July 25, 2023 10:47 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.5.1
+WORDPRESS:	6.2.2
+PHP INFO:	7.4.20 | SAPI: apache2handler
+SERVER:		Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.20 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (5102M default) 
+MEMORY STACK: 8MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20230725_rosilotta_f2810bcba72b1e7d5628_20230725224641_database.sql
+SQL FILE SIZE: 1.97MB (2067135)
+SQL FILE TIME: 2023-07-25 22:47:05
+SQL RUNTIME: 3.62 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/rosilotta
+ARCHIVE FILE: 20230725_rosilotta_f2810bcba72b1e7d5628_20230725224641_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	0B
+STATS:	Dirs 0 | Files 0
+SQL ADDED: 20230725_rosilotta_f2810bcba72b1e7d5628_20230725224641_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => C:\xampp\htdocs\rosilotta\wp-content\backups-dup-lite\tmp\20230725_rosilotta_f2810bcba72b1e7d5628_20230725224641_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 0
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 365.54KB
+ARCHIVE RUNTIME: 0.19 sec.
+MEMORY STACK: 10MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.97MB
+INSTALLER FILE: 73.47KB
+ARCHIVE FILE: 2.12MB 
+EXPECTED FILE/DIRECTORY COUNT: 0
+ACTUAL FILE/DIRECTORY COUNT: 0
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 5.62 sec.
+PEAK PHP MEMORY USED: 12MB
+DONE PROCESSING => 20230725_rosilotta July 25, 2023 10:47 pm
+
